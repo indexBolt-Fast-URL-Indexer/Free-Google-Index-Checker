@@ -14,10 +14,10 @@ No signup required. No usage caps. No browser extensions. Just download, run, an
 
 | Platform | Download | Format |
 |----------|----------|--------|
-| **Linux** | [IndexCheck-0.1.0.AppImage](releases/IndexCheck-0.1.0.AppImage) | AppImage (universal) |
-| **Linux (Debian/Ubuntu)** | [indexcheck_0.1.0_amd64.deb](releases/indexcheck_0.1.0_amd64.deb) | .deb package |
+| **Linux** | [IndexCheck-0.1.0.AppImage]([releases/IndexCheck-0.1.0.AppImage](https://github.com/indexBolt-Fast-URL-Indexer/Free-Google-Index-Checker/releases/download/v0.1.0/IndexCheck-0.1.0.AppImage)) | AppImage (universal) |
+| **Linux (Debian/Ubuntu)** | [indexcheck_0.1.0_amd64.deb]([releases/indexcheck_0.1.0_amd64.deb](https://github.com/indexBolt-Fast-URL-Indexer/Free-Google-Index-Checker/releases/download/v0.1.0/indexcheck_0.1.0_amd64.deb)) | .deb package |
 | **macOS** | Coming soon | .dmg |
-| **Windows** | Coming soon | .exe installer |
+| **Windows** | [Windows Installer](https://github.com/indexBolt-Fast-URL-Indexer/Free-Google-Index-Checker/releases/download/v0.1.0/IndexCheck.Setup.0.1.0.exe) | .exe installer |
 
 > All downloads are available in the [releases](releases/) folder.
 
