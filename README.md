@@ -1,4 +1,4 @@
-# IndexCheck Desktop
+# IndexCheck Desktop By IndexBolt.com
 
 Free desktop index checker for SEOs, publishers, agencies, affiliate marketers, and site owners who need to check whether URLs are indexed by Google at scale.
 
