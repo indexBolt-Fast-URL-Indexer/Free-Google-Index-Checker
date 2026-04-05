@@ -8,6 +8,23 @@ No signup required. No usage caps. No browser extensions. Just download, run, an
 
 ---
 
+## Table of Contents
+
+- [Download IndexCheck Desktop](#download-indexcheck-desktop)
+- [Demo](#demo)
+- [What Is a Google Index Checker?](#what-is-a-google-index-checker)
+- [Key Features](#key-features)
+- [Screenshots](#screenshots)
+- [How to Use IndexCheck Desktop](#how-to-use-indexcheck-desktop)
+- [Who Is This For?](#who-is-this-for)
+- [Use Cases](#use-cases)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [IndexCheck vs Other Google Index Checkers](#indexcheck-vs-other-google-index-checkers)
+- [Links](#links)
+- [License](#license)
+
+---
+
 ![IndexCheck Desktop — Free Google Index Checker](screenshots/hero.png)
 
 ## Download IndexCheck Desktop
@@ -218,8 +235,7 @@ All data stays on your local machine. IndexCheck does not send your URLs to any 
 ## Links
 
 - **IndexBolt** — [indexbolt.com](https://www.indexbolt.com?utm_source=github&utm_medium=readme&utm_campaign=indexcheck_desktop)
-- **Unlimited Free Google Indexer** — [indexbolt.com/unlimited-free-google-indexer](https://www.indexbolt.com/unlimited-free-google-indexer?utm_source=github&utm_medium=readme&utm_campaign=indexcheck_desktop)
-- **Google Index Checker Tool** — [indexbolt.com/tools/google-index-checker](https://www.indexbolt.com/tools/google-index-checker?utm_source=github&utm_medium=readme&utm_campaign=indexcheck_desktop)
+- **Unlimited Free Google Index Checker** — [indexbolt.com/unlimited-free-google-indexer](https://www.indexbolt.com/free-google-index-checker?utm_source=github&utm_medium=readme&utm_campaign=indexcheck_desktop)
 - **IndexBolt Pricing** — [indexbolt.com/pricing](https://www.indexbolt.com/pricing?utm_source=github&utm_medium=readme&utm_campaign=indexcheck_desktop)
 
 ---
